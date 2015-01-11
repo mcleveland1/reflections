@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git responds with a init message and it starts to exchange meta data
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an intermedite point on the Git server that holds your files. You can add or remove items, but you do not have accesss into the area. It offers you a glimpse of what is to be committed so that you can very those are the files that you want to commit.
